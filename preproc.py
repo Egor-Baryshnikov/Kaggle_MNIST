@@ -1,5 +1,6 @@
 import numpy as np
 from PIL import Image
+import torch
 from torch.utils import data as tdata
 from torchvision import transforms as tt
 
